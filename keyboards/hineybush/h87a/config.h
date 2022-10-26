@@ -15,17 +15,6 @@ You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 */
 
-/* USB Device descriptor parameter */
-#define VENDOR_ID       0x04D8
-#define PRODUCT_ID      0xECE9
-#define DEVICE_VER      0x0001
-#define MANUFACTURER    hineybush keyboards
-#define PRODUCT         h87a
-
-#define VIAL_KEYBOARD_UID { 0x02, 0x4B, 0x38, 0xA3, 0x30, 0x79, 0x76, 0x3E }
-#define VIAL_UNLOCK_COMBO_ROWS { 0, 7 }
-#define VIAL_UNLOCK_COMBO_COLS { 0, 6 }
-
 #define CONFIG_H
 
 #include "config_common.h"
@@ -46,7 +35,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 */
 #define MATRIX_ROW_PINS { B0, B1, B2, B3, D0, D1, B5, B6, D7, B4, D6, D4 }
 #define MATRIX_COL_PINS { F0, F1, F4, F5, F6, F7, C7, C6, D2 }
-#define UNUSED_PINS
 
 /* COL2ROW, ROW2COL*/
 #define DIODE_DIRECTION COL2ROW
