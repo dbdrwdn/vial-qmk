@@ -3,7 +3,7 @@
 ![without caps](resources/withoutCaps.jpeg)
 ![internals](resources/internals.jpeg)
 
-If you have any questions/ideas/problems feel free to reach out to _boozar#8086_ on discrod.
+If you have any questions/ideas/keymaps/problems feel free to reach out to _boozar#8086_ on discrod.
 
 ## Firmware
 [Vial (QMK)](https://get.vial.today/download/)
@@ -11,7 +11,7 @@ If you have any questions/ideas/problems feel free to reach out to _boozar#8086_
 ### Keymaps
 [Example keymaps](resources/vial_keymaps)
 
-Feel free to reach out and provide yours
+Feel free to reach out and provide yours!
 
 ## Hardware
 10x4 Matrix
