@@ -1,10 +1,12 @@
 # skeletyl_handwire
-![with caps](https://)
-![without caps](https://)
-![internals](https://)
+![with caps](resources/withCaps.jpeg)
+![without caps](resources/withoutCaps.jpeg)
+![internals](resources/internals.jpeg)
+
+If you have any questions/ideas/problems feel free to reach out to _boozar#8086_ on discrod.
 
 ## Firmware
-Vial (QMK)
+[Vial (QMK)](https://get.vial.today/download/)
 
 ### Keymaps
 [Example keymaps](resources/vial_keymaps)
